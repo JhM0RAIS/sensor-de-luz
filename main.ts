@@ -1,4 +1,4 @@
-basic.showIcon(IconNames.Heart)
+basic.showIcon(IconNames.Yes)
 basic.pause(2000)
 basic.clearScreen()
 basic.pause(200)
